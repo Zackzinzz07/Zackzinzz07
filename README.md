@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isac Salatiel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Concluí o ensino médio no Colégio Ideal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias.  
 
