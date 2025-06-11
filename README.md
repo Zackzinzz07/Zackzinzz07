@@ -64,6 +64,16 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Sony Vegas Pro 17" 
