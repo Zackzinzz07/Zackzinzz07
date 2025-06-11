@@ -1,37 +1,84 @@
-## Isac Salatiel
+# 👩🏻‍💻 Isac Salatiel
 
-<h1 align="center">🚀 Bem-vindo ao meu Portfólio GitHub!</h1>
+**`Desenvolvedora FullStack`**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue" alt="Status">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=social" alt="Followers">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-</p>
+Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Concluí o ensino médio no Colégio Ideal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias.  
 
 ---
 
-<h2>👨‍💻 Sobre mim</h2>
+### 🤖 Linguagens e Tecnologias
 
-<p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no CEUB Taguatinga. Tenho experiência prática com GitHub, criação de conteúdo, HTML, e desenvolvimento de projetos.</p>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
 
-<ul>
-  <li>🎓 Estudante de TI</li>
-  <li>💻 Interesses: Desenvolvimento web, Python, Flask, e Modelagem de Dados</li>
-</ul>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 
-<h2>📫 Contato</h2>
+<img 
+    align="left" 
+    alt="C" 
+    title="C" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+/>
 
-<p>
-  <strong>Email:</strong> salatierlfreitas07@gmail.com<br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/isac-freitas-b67897358/">Meu perfil</a><br>
-</p>
+<img 
+    align="left" 
+    alt="Sony Vegas" 
+    title="Sony Vegas" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Vegas_Pro_15.0.png" 
+/>
 
----
+<img 
+    align="left" 
+    alt="Adobe Photoshop" 
+    title="Adobe Photoshop" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
+/>
 
-<p align="center">Feito por <strong>Zackzin</strong></p>
+<br/><br/><br/>
+
+<br/>
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zackzinzz07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackzinzz07&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
