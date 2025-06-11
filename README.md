@@ -52,15 +52,15 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Sony Vegas Pro 17" 
     title="Sony Vegas Pro 17" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vegas_Pro_17_icon.png/600px-Vegas_Pro_17_icon.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vegas_Pro_17_icon.png/512px-Vegas_Pro_17_icon.png" 
 />
+
 
 <img 
     align="left" 
