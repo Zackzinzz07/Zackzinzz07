@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isac Salatiel
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor `**
 
 Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Concluí o ensino médio no Colégio Ideal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias.  
 
@@ -55,11 +55,11 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Conclu�
 
 <img 
     align="left" 
-    alt="Sony Vegas" 
-    title="Sony Vegas" 
+    alt="Sony Vegas Pro 17" 
+    title="Sony Vegas Pro 17" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Vegas_Pro_15.0.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vegas_Pro_17_icon.png/600px-Vegas_Pro_17_icon.png" 
 />
 
 <img 
