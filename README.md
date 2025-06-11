@@ -4,6 +4,18 @@
 
 Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Concluí o ensino médio no Colégio Ideal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias. Atualmente estudando HTML, CSS, mySQL, C, Python, Adobe photoshop, Vegas studio. 
 
+### 📎 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isac-freitas-b67897358/" target="_blank">
+    <img 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" 
+         width="40" 
+         style="padding-right:10px;" />
+  </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
