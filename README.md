@@ -2,7 +2,9 @@
 
 **`Desenvolvedor `**
 
-Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Concluí o ensino médio no Colégio Ideal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias. Atualmente estudando HTML, CSS, mySQL, C, Python, Adobe photoshop, Vegas studio. 
+Me chamo Isac Salatiel, tenho 19 anos, sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias. Atualmente estudando HTML, CSS, mySQL, C, Python, Adobe photoshop, Vegas studio.
+
+Estudante de tecnologias e concurseiro, atualmente aprovados em 2 concursos públicos do Distrito Federal.
 
 ### 📎 Conecte-se comigo
 
