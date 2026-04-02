@@ -80,17 +80,10 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Conclu�
     title="Figma" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg](https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png)" 
+    src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" 
 />
 
 <br/><br/><br/>
 
 <br/>
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zackzinzz07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackzinzz07&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
