@@ -40,11 +40,11 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Conclu√
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
+    alt="PHP" 
+    title="PHP" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" 
 />
 
 <img 
@@ -76,21 +76,11 @@ Me chamo Isac Salatiel, tenho 18 anos, sou natural do Distrito Federal e Conclu√
 
 <img 
     align="left" 
-    alt="Sony Vegas Pro 17" 
-    title="Sony Vegas Pro 17" 
+    alt="Figma" 
+    title="Figma" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vegas_Pro_17_icon.png/512px-Vegas_Pro_17_icon.png" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Adobe Photoshop" 
-    title="Adobe Photoshop" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
+    src="[https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg](https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png)" 
 />
 
 <br/><br/><br/>
