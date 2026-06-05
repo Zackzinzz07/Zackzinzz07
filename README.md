@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=#0000FF&center=true&vCenter=true&width=700&height=90&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Melhorando+a+cada+dia+mais!" alt="Zack's Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=90&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Melhorando+a+cada+dia+mais!" alt="Zack's Dynamic Title" />
 </p>
 
 <p align="center">
