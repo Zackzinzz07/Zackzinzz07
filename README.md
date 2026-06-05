@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=ZACKZINZZ07" alt="Zack's Name Animation" />
-  <h3>Full Stack Student | Builder & Learner</h3>
-  <p><em>"Code is poetry... e debugar é como ser o detetive de um crime onde você é o assassino."</em></p>
-</div>
+# ![ZACKZINZZ07](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=ZACKZINZZ07)
+
+### Full Stack Student | Builder & Learner
+
+*"Code is poetry... e debugar é como ser o detetive de um crime onde você é o assassino."*
 
 ---
 
