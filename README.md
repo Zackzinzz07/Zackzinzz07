@@ -1,91 +1,33 @@
-# 👨🏻‍💻 Isac Salatiel
+# Zackzinzz07 | Full Stack Student
 
-**`Desenvolvedor `**
-
-Me chamo Isac Salatiel, tenho 19 anos, sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Desde pequeno apaixonado e fascinado pelo mundo das tecnologias. Atualmente estudando HTML, CSS, mySQL, C, Python, Adobe photoshop, Vegas studio.
-
-Estudante de tecnologias e concurseiro, atualmente aprovados em 2 concursos públicos do Distrito Federal.
-
-### 📎 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/isac-freitas-b67897358/" target="_blank">
-    <img 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" 
-         width="40" 
-         style="padding-right:10px;" />
-  </a>
+<!-- 
+===========================================================
+SECTION 3: INNOVATIVE TOP VISUAL (Header)
+Developed as a unique alternative to simple text/banners.
+This banner (image_3.png) is designed to be visually
+engaging and stand out, featuring stylized text and 
+dynamic abstract geometric data flow lines.
+===========================================================
+-->
+<p align="center">
+  <img src="https://github.com/Zackzinzz07/Zackzinzz07/blob/main/header.png?raw=true" alt="Zack's Tech-Abstract Header Banner" width="100%">
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<!-- 
+===========================================================
+SECTION 1: Who am I (Personal Blocks)
+Inspired by image_2.png but personalized.
+===========================================================
+-->
+## 👾 WhoamI
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C" 
-    title="C" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" 
-/>
-
-<br/><br/><br/>
-
-<br/>
-
+```javascript
+const zack = {
+  role: "Full Stack Student",
+  location: "Brasília, DF 🇧🇷",
+  status: "Constantly evolving through code",
+  lifePhilosophy: "Code is poetry",
+  funFact: "Debugar é como ser detetive... mas o criminoso é você."
+};
