@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=#0000FF&center=true&vCenter=true&width=700&height=90&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Melhorando+a+cada+dia+mais!" alt="Zack's Dynamic Title" />
+</p>
 
-<div align="center">
-  <h1>⚡ ZACKZINZZ07 ⚡</h1>
-  <h3>🚀 Full Stack Student | Builder & Learner</h3>
-  <p><em>"Code is poetry... e debugar é como ser o detetive de um crime onde você é o assassino."</em></p>
-</div>
+<p align="center">
+  <strong>👋 Bem-vindo ao meu espaço de evolução contínua!</strong>
+</p>
 
 ---
-
 
 ## 👾 WhoamI
 
@@ -16,5 +16,5 @@ const zack = {
   location: "Brasília, DF 🇧🇷",
   status: "Constantly evolving through code",
   lifePhilosophy: "Code is poetry",
-  mindset: "Melhorar a cada dia mais"
+  funFact: "Debugar é como ser detetive... mas o criminoso é você."
 };
