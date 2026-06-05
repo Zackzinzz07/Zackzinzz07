@@ -1,24 +1,22 @@
-# Zackzinzz07 | Full Stack Student
-
 <!-- 
 ===========================================================
-SECTION 3: INNOVATIVE TOP VISUAL (Header)
-Developed as a unique alternative to simple text/banners.
-This banner (image_3.png) is designed to be visually
-engaging and stand out, featuring stylized text and 
-dynamic abstract geometric data flow lines.
+SEÇÃO 3: TOPO INOVADOR E DINÂMICO (Sem necessidade de upload)
+Gera um banner tecnológico animado com seu nome e cargo automaticamente.
 ===========================================================
 -->
 <p align="center">
-  <img src="https://github.com/Zackzinzz07/Zackzinzz07/blob/main/header.png?raw=true" alt="Zack's Tech-Abstract Header Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Building+the+Future" alt="Zack's Dynamic Header" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=Waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=24&animation=twinkling" alt="Decorative Wave" width="100%"/>
 </p>
 
 ---
 
 <!-- 
 ===========================================================
-SECTION 1: Who am I (Personal Blocks)
-Inspired by image_2.png but personalized.
+SEÇÃO 1: Bloco Whoami (Personalizado em JavaScript)
 ===========================================================
 -->
 ## 👾 WhoamI
