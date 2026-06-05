@@ -1,24 +1,13 @@
-<!-- 
-===========================================================
-SEÇÃO 3: TOPO INOVADOR E DINÂMICO (Sem necessidade de upload)
-Gera um banner tecnológico animado com seu nome e cargo automaticamente.
-===========================================================
--->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Building+the+Future" alt="Zack's Dynamic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=90&lines=---++ZACKZINZZ07++---;Full+Stack+Student;Code+is+poetry...;Melhorando+a+cada+dia+mais!" alt="Zack's Dynamic Title" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=Waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=24&animation=twinkling" alt="Decorative Wave" width="100%"/>
+  <strong>👋 Bem-vindo ao meu espaço de evolução contínua!</strong>
 </p>
 
 ---
 
-<!-- 
-===========================================================
-SEÇÃO 1: Bloco Whoami (Personalizado em JavaScript)
-===========================================================
--->
 ## 👾 WhoamI
 
 ```javascript
