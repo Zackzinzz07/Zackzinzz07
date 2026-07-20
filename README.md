@@ -13,8 +13,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN_AQUI-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![Email](https://img.shields.io/badge/Email-seuemail%40dominio.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isac_Salatiel-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isac-salatiel/)
+[![Email](https://img.shields.io/badge/Email-salatielfreitas07%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salatielfreitas07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zackzinzz07-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zackzinzz07)
 
 <br/>
@@ -175,7 +175,7 @@ Serviço contínuo de criação de landing pages e sistemas web sob medida, com 
 
 ## 🟣 Experience
 
-### Estagiário de Desenvolvimento — MTEC (Athos Pneus Ltda)
+### Estagiário de Desenvolvimento — MTEC
 **Distrito Federal, Brasil**
 
 Empresa do setor de licitações públicas governamentais. Atuação direta na automação do processamento de dados de licitações (Comprasnet, Portal de Compras Públicas), substituindo processos manuais por sistemas automatizados.
@@ -217,45 +217,6 @@ Open To:
 
 ---
 
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zackzinzz07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackzinzz07&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackzinzz07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" width="48%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zackzinzz07&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-<br/>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zackzinzz07&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🟣 Contribution Snake
 
 <div align="center">
@@ -272,8 +233,8 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-seuemail%40dominio.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-salatielfreitas07%40gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:salatielfreitas07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isac-salatiel/)
 [![GitHub](https://img.shields.io/badge/GitHub-Zackzinzz07-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Zackzinzz07)
 
 </div>
